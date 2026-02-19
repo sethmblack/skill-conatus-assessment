@@ -3,8 +3,8 @@ name: conatus-assessment
 description: Identify the fundamental striving (*conatus*) beneath surface desires, behaviors, and conflicts—revealing the essential drive to persevere and enhance one's being.
 license: MIT
 metadata:
+  version: 1.0.3645
   author: sethmblack
-  version: 1.0.3644
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - conatus-assessment
